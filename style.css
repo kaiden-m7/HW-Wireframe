@@ -1,7 +1,8 @@
+
 .body {
     font-family: Arial, Helvetica, sans-serif;
-    color: #777;
     background-color: #777;
+    color: #777;
     width: 960px;
     font-size: 18px;
     margin: 10px;
@@ -47,3 +48,17 @@
     background-color: #ebebeb;
 }
 
+.art {
+    background: #777;
+    color: #ebebeb;
+
+}
+
+.footer {
+    padding: 5px;
+    text-align: center;
+    background-color: #ebebeb;
+    font-size: medium;
+    color: black;
+    margin-top: 700px;
+}
